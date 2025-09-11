@@ -52,9 +52,8 @@ pip install -r requirements.txt
 ## 🧠 Author
 
 **Yu Da**  
-Cornell University, B.A./M.Eng in Computer Science  
+Cornell University, M.Eng in Computer Science  
 Feel free to connect or reach out if you have questions!
 
-## 📝 License
 
-MIT License
+
