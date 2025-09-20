@@ -8,7 +8,7 @@ This project explores and benchmarks different methods for Approximate Nearest N
 
 We evaluate and compare these methods in terms of **search accuracy**, **query runtime**, and **memory usage** on synthetic high-dimensional data using **Euclidean distance**.
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 .
@@ -19,7 +19,7 @@ We evaluate and compare these methods in terms of **search accuracy**, **query r
 └── requirements.txt
 ```
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/yuuuuuu0276/Locality-Sensitive-Hashing.git
@@ -27,13 +27,13 @@ pip install -r requirements.txt
 ```
 
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 - **Query Runtime**: Time to find neighbors per query  
 - **Recall@K**: Fraction of true nearest neighbors found  
 - **Memory Usage**: Memory footprint of indexing structure
 
-## 📈 Sample Results
+## Sample Results
 
 | Method           | Recall@10 | Avg Runtime (ms) | Memory (MB) |
 |------------------|-----------|------------------|-------------|
@@ -49,11 +49,12 @@ pip install -r requirements.txt
 - [FAISS Library](https://github.com/facebookresearch/faiss)  
 - [LSH Tutorial by Mining of Massive Datasets (MMDS)](http://www.mmds.org/)
 
-## 🧠 Author
+## Author
 
 **Yu Da**  
 Cornell University, M.Eng in Computer Science  
 Feel free to connect or reach out if you have questions!
+
 
 
 
